@@ -6,3 +6,6 @@ description: Reader, University of Aberdeen
 logo: /assets/profile.jpg
 
 show_downloads: false
+
+github:
+  is_project_page: false
