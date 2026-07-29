@@ -1,11 +1,14 @@
-theme: jekyll-theme-minima
-
 title: Michael Byrne
-description: Reader, University of Aberdeen
+email: your.email@abdn.ac.uk
+description: >
+  Reader, University of Aberdeen
 
-logo: /assets/profile.jpg
+theme: minima
 
-show_downloads: false
+url: "https://budykorama.github.io"
 
-github:
-  is_project_page: false
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
