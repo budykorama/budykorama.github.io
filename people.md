@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: people
 permalink: /people/
 ---
 
