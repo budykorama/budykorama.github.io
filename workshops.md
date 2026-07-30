@@ -4,14 +4,10 @@ title: Workshops
 permalink: /workshops/
 ---
 
-# Research
+# Workshops
 
-Describe your research programme here.
-
-## Current Research
-
-Details of current projects.
-
-## Previous Research
-
-Summary of previous work.
+* St Andrews, June 2022 [program](link)
+* Harvard, June 2023 [program](link)
+* Harvard, June 2024 [program](link)
+* Harvard, June 2025 [program](link)
+* St Andrews, June 2026 [program](link)
