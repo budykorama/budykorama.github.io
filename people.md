@@ -6,8 +6,10 @@ permalink: /people/
 
 # Founders
 
-* Mike Byrne
-* Kaighin McColl
-* David Battisti
+* Mike Byrne, University of St Andrews
+* Kaighin McColl, Harvard University
+* David Battisti, University of Washington
 
 # Steering committee
+
+TBC
