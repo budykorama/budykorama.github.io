@@ -3,7 +3,6 @@ layout: page
 title: people
 permalink: /people/
 ---
-
 # Founders
 
 * Mike Byrne, University of St Andrews
