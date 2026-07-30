@@ -9,6 +9,6 @@ permalink: /people/
 * Mike Byrne, University of St Andrews
 * Kaighin McColl, Harvard University
 
-# Steering committee
+# Scientific committee
 
 TBC
