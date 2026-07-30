@@ -6,7 +6,7 @@ permalink: /workshops/
 
 # Workshops
 
-* St Andrews, June 2022 [program](link)
+* St Andrews, June 2022 [programme](/assets/pdf/StA_programme_2022.pdf)
 * Harvard, June 2023 [program](link)
 * Harvard, June 2024 [program](link)
 * Harvard, June 2025 [program](link)
