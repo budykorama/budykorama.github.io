@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: workshops
 permalink: /workshops/
 ---
 
