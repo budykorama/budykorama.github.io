@@ -11,4 +11,8 @@ permalink: /people/
 
 # Scientific committee
 
-TBC
+* Cathy Hohenegger, Max Planck Institute for Meteorology
+* Karen McKinnon, UCLA
+* Abby Swann, University of Washington
+* Lucas Vargas Zeppetello, UC Berkeley
+* Yi Zhang, NYU
