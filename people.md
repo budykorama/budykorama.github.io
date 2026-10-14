@@ -12,7 +12,7 @@ permalink: /people/
 # Scientific committee
 
 * Cathy Hohenegger, Max Planck Institute for Meteorology
-* Karen McKinnon, UCLA
+* Karen McKinnon, Johns Hopkins University
 * Abby Swann, University of Washington
 * Lucas Vargas Zeppetello, UC Berkeley
 * Yi Zhang, NYU
